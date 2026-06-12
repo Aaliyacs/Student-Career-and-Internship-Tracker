@@ -4,6 +4,11 @@ A full-featured internship and career management platform built to help students
 
 The application provides a clean and responsive user experience with internship application tracking, analytics dashboards, learning goal management, authentication, and advanced filtering capabilities. It is designed with modern frontend development practices using React, TypeScript, Redux Toolkit, and Tailwind CSS.
 
+## 🔗 Links
+
+- Live Demo: https://student-career-and-internship-tracker-i9x0ipzdi-aaliya1.vercel.app
+- Repository: https://github.com/Aaliyacs/Student-Career-and-Internship-Tracker
+
 ## 🚀 Features
 
 * Secure mock authentication with session persistence
