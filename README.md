@@ -73,7 +73,7 @@ The application provides a clean and responsive user experience with internship 
 
 ### Profile
 
-![Profile](./screenshots/profile.jpeg)
+![Profile](./Screenshots/profile.jpeg)
 
 ## ⚙️ Installation
 
