@@ -57,12 +57,17 @@ The application provides a clean and responsive user experience with internship 
 
 ## 📸 Screenshots
 
-Add screenshots of:
+<h2>📸 Screenshots</h2>
 
-* Dashboard
-* Applications Page
-* Learning Progress Page
-* Profile Page
+<p align="center">
+  <img src="./screenshots/dashboard.jpeg" width="45%" />
+  <img src="./screenshots/applications.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/learning-progress.jpeg" width="45%" />
+  <img src="./screenshots/profile.jpeg" width="45%" />
+</p>
 
 ## ⚙️ Installation
 
