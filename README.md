@@ -55,7 +55,7 @@ The application provides a clean and responsive user experience with internship 
 * ESLint
 * Git & GitHub
 
-## 📸 Screenshots
+
 
 <h2>📸 Screenshots</h2>
 
