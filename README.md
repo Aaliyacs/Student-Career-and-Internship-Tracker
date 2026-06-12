@@ -61,15 +61,15 @@ The application provides a clean and responsive user experience with internship 
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.jpeg)
+![Dashboard](./Screenshots/Dashboard.jpeg)
 
 ### Applications
 
-![Applications](./screenshots/applications.jpeg)
+![Applications](./Screenshots/Applications.png)
 
 ### Learning Progress
 
-![Learning Progress](./screenshots/learning-progress.jpeg)
+![Learning Progress](./Screenshots/Learning.jpeg)
 
 ### Profile
 
